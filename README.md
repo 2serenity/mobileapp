@@ -1,4 +1,4 @@
-#Конструктор Telegram ботов 
+#Техническое задание
 
 [figma](https://www.figma.com/design/kYeqiaY4KXlTrpsDKWjFZp/mobile-app?node-id=0-1&node-type=canvas&t=du2Q6W5ZPkn2QI4D-0)
 
